@@ -73,7 +73,7 @@ The app will start locally at `http://localhost:8501`.
 * **Algorithm**: Logistic Regression
 * **Input Features**: $G1$ (Period 1 Grade), $G2$ (Period 2 Grade)
 * **Evaluation Metrics**:
-  * Accuracy: ~91% on test split
+  * Accuracy: ~87.34% on test split
   * Precision & Recall balanced across both pass/fail outcomes
 
 ---
